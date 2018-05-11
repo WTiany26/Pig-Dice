@@ -6,6 +6,14 @@
   text-align: center;
 } */
 
+#imgs {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 250px;
+}
+
 .difficulty_level {
   text-align: center;
 }
